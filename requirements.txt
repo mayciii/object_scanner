@@ -1,3 +1,5 @@
 ultralytics
 opencv-python
 pyttsx3
+Pillow>=9.1
+pywin32; sys_platform == 'win32'
