@@ -1,4 +1,3 @@
-"""Dark Tkinter interface for real-time YOLO object detection via Android IP Webcam."""
 
 import json
 from pathlib import Path
@@ -14,7 +13,7 @@ from detector import DetectionWorker, normalize_camera_source
 from voice import VoiceWorker
 
 
-# Theme Palette
+
 BACKGROUND = "#111820"
 PANEL = "#1b2632"
 CARD = "#141d26"
